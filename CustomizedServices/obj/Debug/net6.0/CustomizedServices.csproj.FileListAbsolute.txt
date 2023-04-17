@@ -1,0 +1,12 @@
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\bin\Debug\net6.0\CustomizedServices.deps.json
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\bin\Debug\net6.0\CustomizedServices.dll
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\bin\Debug\net6.0\CustomizedServices.pdb
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\obj\Debug\net6.0\CustomizedServices.csproj.AssemblyReference.cache
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\obj\Debug\net6.0\CustomizedServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\obj\Debug\net6.0\CustomizedServices.AssemblyInfoInputs.cache
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\obj\Debug\net6.0\CustomizedServices.AssemblyInfo.cs
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\obj\Debug\net6.0\CustomizedServices.csproj.CoreCompileInputs.cache
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\obj\Debug\net6.0\CustomizedServices.dll
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\obj\Debug\net6.0\refint\CustomizedServices.dll
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\obj\Debug\net6.0\CustomizedServices.pdb
+C:\Users\appse\source\repos\CustomizedServices\CustomizedServices\obj\Debug\net6.0\ref\CustomizedServices.dll
